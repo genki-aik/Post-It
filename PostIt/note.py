@@ -1,7 +1,7 @@
 import csv, time
 import os.path
 
-filename = "test.txt"
+filename = "data/notes.csv"
 
 def write(message):
     # Writes data into a file.
